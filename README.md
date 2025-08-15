@@ -19,7 +19,7 @@
 - 👨‍💻 Self-taught dev from India — obsessed with building cool, impactful stuff  
 - 🛠️ From debugging `undefined` at 2AM to pushing clean commits in prod  
 - ⚛️ React taught me magic, Java taught me logic, and bugs taught me patience  
-- 🔁 Transitioning into Fullstack — Node.js, Express, and Java Backend in focus  
+- 🔁 Transitioning into Fullstack — currently mastering FastAPI, PostgreSQL, and ORM while refining Python backend skills  
 
 ---
 <!-- Snake Game Repo View -->
