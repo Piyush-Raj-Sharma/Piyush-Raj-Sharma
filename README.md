@@ -61,7 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Raj-Sharma&theme=vision-friendly-dark&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Piyush-Raj-Sharma&theme=vision-friendly-dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Raj-Sharma&theme=vision-friendly-dark&layout=compact" />
 </p>
 
